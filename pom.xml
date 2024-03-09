@@ -121,7 +121,6 @@
 					<configuration>
 						<suiteXmlFiles>
 							<suiteXmlFile>testng.xml</suiteXmlFile>
-							<suiteXmlFile>TestingParameterization_testng.xml</suiteXmlFile>
 						</suiteXmlFiles>
 					</configuration>
 				</plugin>
